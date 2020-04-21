@@ -1,0 +1,14 @@
+1. What is GithubApp and probot ?
+2. GitHub Apps configure for multiple Repos
+3. For demo in github (not github.cerner.com): Reponame: TestRepo, probot name: Probot-for-pullrequest
+4. Probot application written in: Nodejs
+5. Create a new PR without JIRA
+6. Create a new PR with JIRA
+7. Create a PR where base branch/mergable branch as master
+8. Create a PR where base branch/mergable branch NOT as master
+9. Comment during merge ?
+10.Projecting to implement in docker and nodejs combination
+
+Valid Jira: SOARFIN-8940
+Invalid Jira: SOARFIN-89455442
+Multiple Jiras (valid and invalid) :SOARFIN-8940 SOARFIN-89455442
